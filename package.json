@@ -1,0 +1,28 @@
+{
+  "name": "quotus",
+  "version": "1.0.0",
+  "description": "Bite-size nuggets of inspiration for your next big startup idea.",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@tandavala"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "adonisjs"
+  ],
+  "author": "Jose Tandavala <jose.tandavala@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@adonisjs/ace": "^11.0.5",
+    "@adonisjs/fold": "^8.1.6",
+    "@adonisjs/framework": "^5.0.13",
+    "japa": "^4.0.0",
+    "japa-cli": "^1.0.1"
+  },
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
